@@ -1,0 +1,43 @@
+html{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;   
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+
+.container {
+    color:black;
+    background-color: white;
+    width: 30%;
+    margin: auto;
+    padding: 35px;
+    text-align: left;
+}
+
+.contact h4 {
+    color:black;
+    font-weight: 600;
+    font-size: 20px;
+}   
+
+.contact textarea {
+    height: 100px;
+}
+
+.contact input,.contact textarea {
+    color: black;
+    width: 94.5%;
+    font-weight: 500;
+    padding: 10px;
+    margin: 10px 0 20px;
+}
+
+footer {
+    text-align: center;
+    margin: 0px 0 0px;
+}
